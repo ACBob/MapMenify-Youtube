@@ -105,6 +105,6 @@ getHighestImageIndex()
   .then(() => {
     setInterval(applyOverlayToThumbnails, 100);
     console.log(
-      "MrBeastify Loaded Successfully, " + highestImageIndex + " images detected."
+      "MapMenify Loaded Successfully, " + highestImageIndex + " images detected."
     );
   })
